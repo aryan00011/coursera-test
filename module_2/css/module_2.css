@@ -150,19 +150,19 @@ section {
 
 	#JS_para span {
 		position: absolute;
-		left: 150px;
+		left: 110px;
 		right: 0px;
 	}
 
 	#python_para span {
 		position: absolute;
-		left: 200px;
+		left: 160px;
 		right: 0px;
 	}
 
 	#ruby_para span {
 		position: absolute;
-		left: 220px;
+		left: 180px;
 		right: 0px;
 	}
 
