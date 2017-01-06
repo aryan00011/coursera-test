@@ -1,0 +1,45 @@
+body {
+	background-color: #FBDB76;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#navbar-content {
+	background-color: #FCFAE2;
+}
+
+li {
+	text-align: center;
+}
+
+#cat-chicken {
+	background-color: #FFFBBD;
+}
+
+#cat-beef {
+	background-color: #DEDAA4;
+}
+
+#cat-sushi {
+	background-color: #B9B68F;
+}
+
+#chicken-content {
+	background-color: #FFFBBD;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px; 
+}
+
+#beef-content {
+	background-color: #DEDAA4;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px; 
+}
+
+#sushi-content {
+	background-color: #B9B68F;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
